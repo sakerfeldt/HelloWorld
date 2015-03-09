@@ -1,1 +1,2 @@
 Random text file.
+New comment.
